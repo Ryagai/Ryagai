@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ryagai
+- 👀 I’m interested in a wild mix of graphic design, game design, programming and creating music.
+- 🌱 I’m currently learning making games in Unity(again) and creating music(Mostly for my games).
+- 💞️ I’m looking to collaborate on anyone who is in need of a newbie's help.
+- 📫 Email: ryagaidragnir@gmail.com
